@@ -273,7 +273,7 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 
 ## Install M3 in Maven tools
 
-Goto Manage Jenkins > Tools > Maven 
+Goto Manage Jenkins > Tools > Maven > Add Installations > Put the name as "M3"
 
 ![](/Users/showmikbose/Library/Application%20Support/marktext/images/2023-07-23-18-37-21-image.png) 
 
